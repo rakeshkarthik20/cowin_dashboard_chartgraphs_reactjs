@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.vaccination-gender-container {
+  background-color: #1c1c2b;
+  margin-right: 90px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  margin-bottom: 30px;
+}
+.vaccination-gender-heading {
+  color: #6c757d;
+  padding-left: 35px;
+}

@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.vaccination-age-container {
+  background-color: #1c1c2b;
+  margin-right: 90px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+.vaccination-age-heading {
+  color: #6c757d;
+  padding-left: 35px;
+}
+.pie-chart-container {
+  padding-bottom: 50px;
+}
